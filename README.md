@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hola, soy Patricio Silva
 
-<!--
-**patricio-silva-morales/patricio-silva-morales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador fullstack, docente y creador de soluciones web enfocadas en software a medida, desarrollo de sitios web y posicionamiento.
 
-Here are some ideas to get you started:
+## Sobre mí
+Me especializo en desarrollo con Laravel, Vue, MySQL y tecnologías web. También tengo experiencia en docencia, relatoría y formación en desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías principales
+- Laravel
+- Vue 3
+- JavaScript
+- PHP
+- MySQL
+- HTML y CSS
+
+## Proyectos destacados
+### Sistema de pedidos
+Aplicación para gestionar pedidos, clientes, despacho y seguimiento.
+[Ver proyecto](https://github.com/tuusuario/proyecto1)
+
+### Sistema escolar
+Plataforma para administración de pagos de apoderados y gestión académica.
+[Ver proyecto](https://github.com/tuusuario/proyecto2)
+
+### Portafolio web profesional
+Sitio orientado a presentar servicios, experiencia y proyectos.
+[Ver proyecto](https://github.com/tuusuario/proyecto3)
+
+## Actualmente
+- Desarrollando aplicaciones web
+- Enseñando programación y tecnologías web
+- Mejorando portafolios técnicos y documentación
+
+## Contacto
+- LinkedIn: https://linkedin.com/in/tuusuario
+- Sitio web: https://tusitio.cl
