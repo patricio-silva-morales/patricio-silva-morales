@@ -1,9 +1,22 @@
 # Hola, soy Patricio Silva
 
-Desarrollador fullstack, docente y creador de soluciones web enfocadas en software a medida, desarrollo de sitios web y posicionamiento.
+Desarrollador Fullstack especializado en soluciones web a medida, enfocado en construir sistemas robustos, escalables y orientados a resultados.
+
+Docente y relator acreditado en el Registro Especial de Unidades de Formación (REUF) | Consultor en Soluciones Tecnológicas y Marketing Digital | Más de 28 años de experiencia.
 
 ## Sobre mí
-Me especializo en desarrollo con Laravel, Vue, MySQL y tecnologías web. También tengo experiencia en docencia, relatoría y formación en desarrollo de software.
+Me especializo en el desarrollo de aplicaciones web utilizando Laravel, Vue y Django, integrando bases de datos relacionales y no relacionales para resolver problemas reales de negocio.
+
+Combino mi experiencia técnica con formación y docencia, lo que me permite diseñar soluciones claras, bien estructuradas y fáciles de mantener, tanto para equipos como para clientes.
+
+Trabajo en el desarrollo de sistemas a medida, automatización de procesos y creación de plataformas web orientadas a mejorar la eficiencia y la toma de decisiones.
+
+## Enfoque
+- Desarrollo de software a medida
+- Sistemas web escalables
+- Optimización de procesos
+- Integración de tecnologías modernas
+- Formación y mentoría en desarrollo
 
 ## Tecnologías principales
 
