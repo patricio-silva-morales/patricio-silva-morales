@@ -65,5 +65,5 @@ Sitio orientado a presentar servicios, experiencia y proyectos.
 - Mejorando portafolios técnicos y documentación
 
 ## Contacto
-- LinkedIn: https://linkedin.com/in/tuusuario
-- Sitio web: https://tusitio.cl
+- LinkedIn: [https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/patricio-silva-morales-909b00240/)
+- Sitio web: [https://www.giat.cl](https://www.giat.cl/)
