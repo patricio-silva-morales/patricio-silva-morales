@@ -1,11 +1,11 @@
 # Hola, soy Patricio Silva
 
-Desarrollador Fullstack especializado en soluciones web a medida, enfocado en construir sistemas robustos, escalables y orientados a resultados, con más de 28 años de experiencia.
+Desarrollador Fullstack especializado en soluciones web a medida, enfocado en construir sistemas robustos, escalables y orientados a resultados.
 
-Además soy docente y relator acreditado en el Registro Especial de Unidades de Formación (REUF) y consultor en Soluciones Tecnológicas y Marketing Digital.
+Docente y relator acreditado en el Registro Especial de Unidades de Formación (REUF) | Consultor en Soluciones Tecnológicas y Marketing Digital | Más de 28 años de experiencia.
 
 ## Sobre mí
-Me especializo en el desarrollo de aplicaciones web utilizando Laravel, Vue y Django, integrando bases de datos relacionales y no relacionales para resolver problemas reales de negocio.
+Me especializo en el desarrollo de aplicaciones web utilizando Laravel, Vue y Django, junto con Python para la construcción de soluciones eficientes y escalables, integrando bases de datos relacionales y no relacionales para resolver problemas reales de negocio.
 
 Combino mi experiencia técnica con formación y docencia, lo que me permite diseñar soluciones claras, bien estructuradas y fáciles de mantener, tanto para equipos como para clientes.
 
@@ -24,6 +24,7 @@ Trabajo en el desarrollo de sistemas a medida, automatización de procesos y cre
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔹 Frontend
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
