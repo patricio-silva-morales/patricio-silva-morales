@@ -5,7 +5,7 @@ Desarrollador Fullstack especializado en soluciones web a medida, enfocado en co
 Además soy docente y relator acreditado en el Registro Especial de Unidades de Formación (REUF) y consultor en Soluciones Tecnológicas y Marketing Digital.
 
 ## Sobre mí
-Me especializo en el desarrollo de aplicaciones web utilizando Laravel, Vue y Django, junto con Python para la construcción de soluciones eficientes y escalables, integrando bases de datos relacionales y no relacionales para resolver problemas reales de negocio.
+Me especializo en el desarrollo de aplicaciones web utilizando Laravel, Angular, Vue y Django, junto con Python para la construcción de soluciones eficientes y escalables, integrando bases de datos relacionales y no relacionales para resolver problemas reales de negocio.
 
 Combino mi experiencia técnica con formación y docencia, lo que me permite diseñar soluciones claras, bien estructuradas y fáciles de mantener, tanto para equipos como para clientes.
 
